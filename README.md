@@ -64,7 +64,7 @@ dropout=0.2
 
 **Downloading data**
 
-Download s1.zip from the Ninapro DB1 dataset, extract the S1_A1_E1.mat file and place it inside the data folder of this repository
+Download s1.zip from the Ninapro DB1 dataset, extract the S1_A1_E1.mat file and place it inside a data/ folder created at the main root of this repository
 Link to Ninapro: https://ninapro.hevs.ch/
 
 **Reproducing Results**
